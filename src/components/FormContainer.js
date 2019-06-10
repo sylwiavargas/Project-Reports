@@ -7,6 +7,9 @@ class FormContainer extends Component {
   render() {
     return (
       <div>
+        Prompt here
+        <TextInput />
+        Another here
         <TextInput />
         <PictureInput />
       </div>

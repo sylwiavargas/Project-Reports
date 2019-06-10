@@ -4,7 +4,9 @@ class TextInput extends Component {
 
   render() {
     return (
-      <div>Prompt question here</div>
+      <div>
+        <input />
+      </div>
     );
   }
 
